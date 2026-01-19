@@ -7,11 +7,9 @@ This repository documents governance principles and stewardship intent for the $
 
 It exists to provide continuity, transparency, and a public record of how the project is maintained over time.
 
-## Pre-Launch Status
+## Formal Governance Mechanisms
 
-At pre-launch, no formal governance mechanisms are active.
-
-This repository currently documents:
+This repository will document:
 - Stewardship principles
 - Administrative intent
 - How governance-related information will be recorded publicly
