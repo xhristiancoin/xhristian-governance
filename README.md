@@ -1,5 +1,5 @@
-[![X Follow](https://img.shields.io/twitter/follow/xhristiancoin.svg?style=social)](https://x.com/xhristiancoin)
-[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@xhristiancoin)](https://t.me/xhristiancoin)
+[![X Follow](https://img.shields.io/twitter/follow/xcryptocult.svg?style=social)](https://x.com/xcryptocult)
+[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@xcryptocult)](https://t.me/xcryptocult)
 
 # XHRISTIAN Governance Records
 
